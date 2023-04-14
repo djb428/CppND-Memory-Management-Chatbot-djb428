@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/dylan/Projects/Udacity/C++/CppND-Memory-Management-Chatbot-master/build",
+  "command": "/usr/bin/g++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK__ -isystem /usr/lib/x86_64-linux-gnu/wx/include/gtk3-unicode-3.0 -isystem /usr/include/wx-3.0  -pthread -g -o CMakeFiles/membot.dir/src/chatbot.cpp.o -c /home/dylan/Projects/Udacity/C++/CppND-Memory-Management-Chatbot-master/src/chatbot.cpp",
+  "file": "/home/dylan/Projects/Udacity/C++/CppND-Memory-Management-Chatbot-master/src/chatbot.cpp"
+},
+{
+  "directory": "/home/dylan/Projects/Udacity/C++/CppND-Memory-Management-Chatbot-master/build",
+  "command": "/usr/bin/g++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK__ -isystem /usr/lib/x86_64-linux-gnu/wx/include/gtk3-unicode-3.0 -isystem /usr/include/wx-3.0  -pthread -g -o CMakeFiles/membot.dir/src/chatgui.cpp.o -c /home/dylan/Projects/Udacity/C++/CppND-Memory-Management-Chatbot-master/src/chatgui.cpp",
+  "file": "/home/dylan/Projects/Udacity/C++/CppND-Memory-Management-Chatbot-master/src/chatgui.cpp"
+},
+{
+  "directory": "/home/dylan/Projects/Udacity/C++/CppND-Memory-Management-Chatbot-master/build",
+  "command": "/usr/bin/g++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK__ -isystem /usr/lib/x86_64-linux-gnu/wx/include/gtk3-unicode-3.0 -isystem /usr/include/wx-3.0  -pthread -g -o CMakeFiles/membot.dir/src/chatlogic.cpp.o -c /home/dylan/Projects/Udacity/C++/CppND-Memory-Management-Chatbot-master/src/chatlogic.cpp",
+  "file": "/home/dylan/Projects/Udacity/C++/CppND-Memory-Management-Chatbot-master/src/chatlogic.cpp"
+},
+{
+  "directory": "/home/dylan/Projects/Udacity/C++/CppND-Memory-Management-Chatbot-master/build",
+  "command": "/usr/bin/g++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK__ -isystem /usr/lib/x86_64-linux-gnu/wx/include/gtk3-unicode-3.0 -isystem /usr/include/wx-3.0  -pthread -g -o CMakeFiles/membot.dir/src/graphedge.cpp.o -c /home/dylan/Projects/Udacity/C++/CppND-Memory-Management-Chatbot-master/src/graphedge.cpp",
+  "file": "/home/dylan/Projects/Udacity/C++/CppND-Memory-Management-Chatbot-master/src/graphedge.cpp"
+},
+{
+  "directory": "/home/dylan/Projects/Udacity/C++/CppND-Memory-Management-Chatbot-master/build",
+  "command": "/usr/bin/g++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK__ -isystem /usr/lib/x86_64-linux-gnu/wx/include/gtk3-unicode-3.0 -isystem /usr/include/wx-3.0  -pthread -g -o CMakeFiles/membot.dir/src/graphnode.cpp.o -c /home/dylan/Projects/Udacity/C++/CppND-Memory-Management-Chatbot-master/src/graphnode.cpp",
+  "file": "/home/dylan/Projects/Udacity/C++/CppND-Memory-Management-Chatbot-master/src/graphnode.cpp"
+}
+]
